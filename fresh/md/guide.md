@@ -10,3 +10,5 @@ Image 태그
 - layout shift 방지
 
 * 외부에서 url을 불러올 경우 width/height 속성 필요함
+
+- deduplication기능 : 같은 데이터 요청이 여러개면 1개로 압축해줌
